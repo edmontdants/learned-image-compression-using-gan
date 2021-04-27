@@ -25,7 +25,7 @@ Some other notes on the problem:
 ### Results
 
 #### No adversarial loss
-<img src=".png" title="compression_non adversarial loss" width="500" />
+<img src="compression_non adversarial loss.png" title="No adversarial loss" width="500" />
 
 #### Adversarial loss
 <img src="compression_adverserial loss.png" title="With adversarial loss" width="500" />
